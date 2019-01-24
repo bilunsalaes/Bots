@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Light:" EventCommand="/ma &quot;Thunder&quot; &lt;t&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Tachi: Kaiten" EventCommand="/ma &quot;Refresh II&quot; Apururu" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Defeats Apex Toad" EventCommand="/ma &quot;Refresh II&quot; Vanyun" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

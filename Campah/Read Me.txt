@@ -1,0 +1,36 @@
+Campah
+----------------------------------------------------------------------------------------------------------------
+Open source ffxiah auction house utility by golfnsurf.
+
+----------------------------------------------------------------------------------------------------------------
+Requirements
+----------------------------------------------------------------------------------------------------------------
+    -> Microsoft .NET 4.0 or greater.                          https://www.microsoft.com/en-us/download/details.aspx?id=17718
+    -> Visual C++ 2015 Redistributable (32bit) [Update 2]      https://www.microsoft.com/en-us/download/details.aspx?id=51682
+
+
+----------------------------------------------------------------------------------------------------------------
+Credits
+----------------------------------------------------------------------------------------------------------------
+    -> Campah (c) 2011 - PandySoft (goldnsurf)
+    -> h1pp0 (Updates from 2012 ~ 2014)
+    -> eradicate (Updates from 2014)
+    -> atom0s (Updates from 2015 ~ 2016)
+
+Campah has been reworked to no longer rely on FFACE, but instead uses the EliteAPI from The EliteMMO Network.
+You can find more info on the EliteAPI here:
+http://www.elitemmonetwork.com/forums/viewforum.php?f=28
+
+When the game client updates, you will need to update to the latest version of the EliteAPI for this application to work properly.
+Just like FFACE updates, you will need to update both EliteAPI.dll and EliteMMO.API.dll files which you can find here:
+
+    -> EliteAPI: http://ext.elitemmonetwork.com/downloads/eliteapi/
+    -> EliteMMO.API: http://ext.elitemmonetwork.com/downloads/elitemmo_api/
+
+
+----------------------------------------------------------------------------------------------------------------
+Source Code
+----------------------------------------------------------------------------------------------------------------
+
+You can find the source code to this program here:
+https://github.com/atom0s/Campah

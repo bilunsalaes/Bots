@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="False" ChatEvent="Tachi: Kaiten" EventCommand="/ma &quot;Refresh II&quot; Vanyun" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="False" ChatEvent="Light:" EventCommand="/ma &quot;Thunder&quot; &lt;t&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Light:" EventCommand="/item &quot;Trizek Ring&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Tachi: Fudo" EventCommand="/item &quot;Capacity Ring&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

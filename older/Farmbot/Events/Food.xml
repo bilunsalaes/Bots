@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Food" EventCommand="item &quot;Crab Sushi&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

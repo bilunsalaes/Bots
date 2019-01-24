@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Tachi: Fudo" EventCommand="/ws &quot;Chant du Cygne&quot; &lt;t&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Anness's Refresh effect wears off." EventCommand="/ma &quot;Refresh II&quot; Anness" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Bilun" EventCommand="/assist Bilun" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Apex toad" EventCommand="/attack &lt;bt&gt;" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

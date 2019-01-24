@@ -1,0 +1,8 @@
+OSS v1.0.0.9 Final
+-farmbot
+---Return Idle Location should be fixed
+---removed the limiter for steps when you have buff id=588,en="Finishing Move (6+)"
+---added Avatar auto assault
+---added user distance setting to Idle return location
+----this will allow you to adjust how close you need to be to the exact point that you chose of you Idle return location
+-Manual Update

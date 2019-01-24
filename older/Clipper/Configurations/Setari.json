@@ -1,0 +1,29 @@
+{
+  "AlwaysOnTop": false,
+  "UseExclusions": true,
+  "ZoneDelay": 10000,
+  "DetectionDelay": 10,
+  "ExcludedPlayers": [
+    "Bilun",
+    "Anness",
+    "Rackhman",
+    "Vanyun"
+  ],
+  "ExcludedZones": [],
+  "Hacks": {
+    "StatusHacks_Value": 0,
+    "StatusHacks_AutoDisable": true,
+    "MiscHacks_GMFlag": false,
+    "MiscHacks_JAWait0": false,
+    "MiscHacks_TrueSight": true,
+    "MiscHacks_MaintenanceFlag": false,
+    "MiscHacks_AutoDisable": true,
+    "SpeedHacks_Enabled": false,
+    "SpeedHacks_AutoDisable": true,
+    "SpeedHacks_Value": 0.0,
+    "SpeedHacks_ValueDisabled": 5.0,
+    "PositionHacks_LockZCoord": false,
+    "PositionHacks_AutoDisable": false,
+    "PositionHacks_AdjustmentAmount": 1.0
+  }
+}

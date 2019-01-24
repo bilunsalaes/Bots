@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Bilun defeats apex toad." EventCommand="/ja &quot;Full circle&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Rackhman defeats Apex toad." EventCommand="/ja &quot;Full Circle&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Bilun defeats Apex Jagil" EventCommand="/ja &quot;Full Circle&quot; &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="Rackhman defeats Apex Jagil." EventCommand="/ja &quot;Full Circle' &lt;me&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="evasion boost" EventCommand="/ma &quot;Dispel&quot; &lt;bt&gt;" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="True" ChatEvent="defense boost" EventCommand="/ma &quot;Dispel&quot; &lt;bt&gt;" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

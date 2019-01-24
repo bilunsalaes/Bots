@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="Tachi: Fudo" EventCommand="//setkey alt down; setkey 1 down; wait 0.1; setkey 1 up; setkey alt up;" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

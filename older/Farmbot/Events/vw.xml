@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnEventsList>
+  <Event isChecked="True" ChatEvent="defeats Morta" EventCommand="//exec claimall.txt" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="False" ChatEvent="Voidwatcher effect wears off." EventCommand="//start" ChatType="ALL" isRegEx="False" />
+  <Event isChecked="False" ChatEvent="falls to the ground" EventCommand="//exec claimall.txt" ChatType="ALL" isRegEx="False" />
+</OnEventsList>

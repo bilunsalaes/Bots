@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ChildForm>
+  <Control Type="System.Windows.Forms.Panel" Name="panel1">
+    <Control Type="System.Windows.Forms.GroupBox" Name="groupBox8">
+      <Enabled>True</Enabled>
+      <Control Type="System.Windows.Forms.ComboBox" Name="comboBox3">
+        <Text />
+      </Control>
+      <Control Type="System.Windows.Forms.CheckBox" Name="firstPersonView">
+        <Checked>False</Checked>
+        <Enabled>True</Enabled>
+        <CheckState>Unchecked</CheckState>
+      </Control>
+      <Control Type="System.Windows.Forms.CheckBox" Name="runReverse">
+        <Checked>False</Checked>
+        <Enabled>False</Enabled>
+        <CheckState>Unchecked</CheckState>
+      </Control>
+      <Control Type="System.Windows.Forms.RadioButton" Name="Linear">
+        <Checked>True</Checked>
+      </Control>
+      <Control Type="System.Windows.Forms.RadioButton" Name="Circular">
+        <Checked>False</Checked>
+      </Control>
+      <Control Type="System.Windows.Forms.ComboBox" Name="selectedNavi">
+        <Text>marjami joint farm.xin</Text>
+      </Control>
+    </Control>
+    <Control Type="System.Windows.Forms.GroupBox" Name="groupBox18">
+      <Enabled>True</Enabled>
+    </Control>
+    <Control Type="System.Windows.Forms.CheckBox" Name="checkZone">
+      <Checked>True</Checked>
+      <Enabled>True</Enabled>
+      <CheckState>Checked</CheckState>
+    </Control>
+    <Control Type="System.Windows.Forms.CheckBox" Name="StopFullInventory">
+      <Checked>False</Checked>
+      <Enabled>True</Enabled>
+      <CheckState>Unchecked</CheckState>
+    </Control>
+    <Control Type="System.Windows.Forms.GroupBox" Name="groupBox23">
+      <Enabled>True</Enabled>
+    </Control>
+    <Control Type="System.Windows.Forms.CheckBox" Name="DeathWarp">
+      <Checked>False</Checked>
+      <Enabled>True</Enabled>
+      <CheckState>Unchecked</CheckState>
+    </Control>
+    <Control Type="System.Windows.Forms.CheckBox" Name="usenav">
+      <Checked>True</Checked>
+      <Enabled>True</Enabled>
+      <CheckState>Checked</CheckState>
+    </Control>
+  </Control>
+  <Control Type="System.Windows.Forms.TabControl" Name="dncControl">
+    <Control Type="System.Windows.Forms.TabPage" Name="targets">
+      <Control Type="System.Windows.Forms.GroupBox" Name="groupBox9">
+        <Enabled>True</Enabled>
+      </Control>
+      <Control Type="System.Windows.Forms.GroupBox" Name="groupBox11">
+        <Enabled>True</Enabled>
+      </Control>
+      <Control Type="System.Windows.Forms.GroupBox" Name="groupBox12">
+        <Enabled>True</Enabled>
+      </Control>
+      <Control Type="System.Windows.Forms.GroupBox" Name="selecttargets">
+        <Enabled>True</Enabled>
+      </Control>
+    </Control>
+    <Control Type="System.Windows.Forms.TabPage" Name="combat">
+      <Control Type="System.Windows.Forms.TabControl" Name="CombatSettingsTabs">
+        <Control Type="System.Windows.Forms.TabPage" Name="Options1MainTab">
+          <Control Type="System.Windows.Forms.GroupBox" Name="HateControlgroup">
+            <Enabled>True</Enabled>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="numericUpDown6">
+              <Value>100</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="numericUpDown7">
+              <Value>10</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.ComboBox" Name="selectedHateControl">
+              <Text />
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="tank">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+          </Control>
+          <Control Type="System.Windows.Forms.GroupBox" Name="groupBox20">
+            <Enabled>True</Enabled>
+            <Control Type="System.Windows.Forms.ComboBox" Name="amname">
+              <Text>Tachi: Kaiten</Text>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="AfterMathTier">
+              <Value>3</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="wsam">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="WSDistance">
+              <Checked>True</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Checked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.ComboBox" Name="selectedWS">
+              <Text>Tachi: Fudo</Text>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="WSDistanceset">
+              <Value>1</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="ws">
+              <Checked>True</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Checked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="WStp">
+              <Value>1000</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="TragetHPPtop">
+              <Value>100</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="TragetHPPbottom">
+              <Value>1</Value>
+              <Enabled>True</Enabled>
+            </Control>
+          </Control>
+        </Control>
+        <Control Type="System.Windows.Forms.TabPage" Name="Options2MainTab">
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="numericUpDown38">
+            <Value>5</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="aggroRange">
+            <Value>8.5</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="ScanDelay">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="KeepTargetRange">
+            <Value>3</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="assistDist">
+            <Value>5</Value>
+            <Enabled>False</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="followDist">
+            <Value>3</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="partyAssist">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="facetarget">
+            <Checked>True</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Checked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="assist">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="followplayer">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.TextBox" Name="followName">
+            <Text>Vanyun</Text>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="useshadows">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.TextBox" Name="assistplayer">
+            <Text>Vanyun</Text>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="aggro">
+            <Checked>True</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Checked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="mobdist">
+            <Checked>True</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Checked</CheckState>
+          </Control>
+        </Control>
+        <Control Type="System.Windows.Forms.TabPage" Name="Options3MainTab">
+          <Control Type="System.Windows.Forms.CheckBox" Name="fullheal">
+            <Checked>True</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Checked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.ComboBox" Name="comboBox4">
+            <Text />
+          </Control>
+          <Control Type="System.Windows.Forms.ComboBox" Name="SignetStaff">
+            <Text />
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="useStaff">
+            <Checked>False</Checked>
+            <Enabled>False</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.TextBox" Name="foodName">
+            <Text>Crab Sushi</Text>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="healMPcount">
+            <Value>40</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="usefood">
+            <Checked>True</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Checked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="HealMP">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.NumericUpDown" Name="healHPcount">
+            <Value>40</Value>
+            <Enabled>True</Enabled>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="WeakLocation">
+            <Checked>False</Checked>
+            <Enabled>False</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="HealHP">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.TextBox" Name="textBox6">
+            <Text />
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="IdleLocation">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+        </Control>
+        <Control Type="System.Windows.Forms.TabPage" Name="Options4MainTab">
+          <Control Type="System.Windows.Forms.GroupBox" Name="NotinBattle">
+            <Enabled>True</Enabled>
+            <Control Type="System.Windows.Forms.CheckBox" Name="UseJigs">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.RadioButton" Name="ChocoboJigII">
+              <Checked>False</Checked>
+            </Control>
+            <Control Type="System.Windows.Forms.RadioButton" Name="ChocoboJig">
+              <Checked>False</Checked>
+            </Control>
+            <Control Type="System.Windows.Forms.RadioButton" Name="SpectralJig">
+              <Checked>False</Checked>
+            </Control>
+          </Control>
+          <Control Type="System.Windows.Forms.GroupBox" Name="groupBox15">
+            <Enabled>True</Enabled>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="autoRangeDelay">
+              <Value>5</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.TextBox" Name="textBox7">
+              <Text>/ra &lt;t&gt;</Text>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="rangeaggro">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.ComboBox" Name="comboBox1">
+              <Text />
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="checkBox4">
+              <Checked>False</Checked>
+              <Enabled>False</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="autoRangeAttack">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+          </Control>
+        </Control>
+        <Control Type="System.Windows.Forms.TabPage" Name="selectapp">
+          <Control Type="System.Windows.Forms.CheckBox" Name="ManualTargMode">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.CheckBox" Name="EnableDynamis">
+            <Checked>False</Checked>
+            <Enabled>True</Enabled>
+            <CheckState>Unchecked</CheckState>
+          </Control>
+          <Control Type="System.Windows.Forms.GroupBox" Name="groupBox16">
+            <Enabled>True</Enabled>
+            <Control Type="System.Windows.Forms.NumericUpDown" Name="StuckDistance">
+              <Value>1</Value>
+              <Enabled>True</Enabled>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="navStuckWatch">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+            <Control Type="System.Windows.Forms.CheckBox" Name="mobStuckWatch">
+              <Checked>False</Checked>
+              <Enabled>True</Enabled>
+              <CheckState>Unchecked</CheckState>
+            </Control>
+          </Control>
+        </Control>
+        <Control Type="System.Windows.Forms.TabPage" Name="OptionsJAMainTab">
+          <Control Type="System.Windows.Forms.TabControl" Name="JAtabselect">
+            <Control Type="System.Windows.Forms.TabPage" Name="selectPage">
+              <Control Type="System.Windows.Forms.CheckedListBox" Name="playerJA">
+                <SelectedItem0>Berserk</SelectedItem0>
+                <SelectedItem1>Warcry</SelectedItem1>
+                <SelectedItem2>Aggressor</SelectedItem2>
+                <SelectedItem3>Third Eye</SelectedItem3>
+                <SelectedItem4>Meditate</SelectedItem4>
+                <SelectedItem5>Hasso</SelectedItem5>
+                <SelectedIndexcount>6</SelectedIndexcount>
+              </Control>
+            </Control>
+            <Control Type="System.Windows.Forms.TabPage" Name="samPage">
+              <Control Type="System.Windows.Forms.ComboBox" Name="sekkanokiWs">
+                <Text />
+              </Control>
+            </Control>
+          </Control>
+        </Control>
+      </Control>
+      <Control Type="System.Windows.Forms.GroupBox" Name="groupBox14">
+        <Enabled>True</Enabled>
+        <Control Type="System.Windows.Forms.NumericUpDown" Name="pullDelay">
+          <Value>4</Value>
+          <Enabled>True</Enabled>
+        </Control>
+        <Control Type="System.Windows.Forms.CheckBox" Name="AutoLock">
+          <Checked>False</Checked>
+          <Enabled>True</Enabled>
+          <CheckState>Unchecked</CheckState>
+        </Control>
+        <Control Type="System.Windows.Forms.NumericUpDown" Name="mobheightdistValue">
+          <Value>1</Value>
+          <Enabled>True</Enabled>
+        </Control>
+        <Control Type="System.Windows.Forms.CheckBox" Name="mobheightdist">
+          <Checked>True</Checked>
+          <Enabled>True</Enabled>
+          <CheckState>Checked</CheckState>
+        </Control>
+        <Control Type="System.Windows.Forms.CheckBox" Name="runTarget">
+          <Checked>False</Checked>
+          <Enabled>True</Enabled>
+          <CheckState>Unchecked</CheckState>
+        </Control>
+        <Control Type="System.Windows.Forms.CheckBox" Name="runPullDistance">
+          <Checked>True</Checked>
+          <Enabled>True</Enabled>
+          <CheckState>Checked</CheckState>
+        </Control>
+        <Control Type="System.Windows.Forms.NumericUpDown" Name="targetSearchDist">
+          <Value>16</Value>
+          <Enabled>True</Enabled>
+        </Control>
+        <Control Type="System.Windows.Forms.NumericUpDown" Name="pullTolorance">
+          <Value>1</Value>
+          <Enabled>True</Enabled>
+        </Control>
+        <Control Type="System.Windows.Forms.NumericUpDown" Name="numericUpDown21">
+          <Value>16</Value>
+          <Enabled>True</Enabled>
+        </Control>
+        <Control Type="System.Windows.Forms.TextBox" Name="pullCommand">
+          <Text />
+        </Control>
+      </Control>
+    </Control>
+    <Control Type="System.Windows.Forms.TabPage" Name="trustControl">
+      <Control Type="System.Windows.Forms.CheckedListBox" Name="Trusts">
+        <SelectedItem0>Kupipi</SelectedItem0>
+        <SelectedItem1>Qultada</SelectedItem1>
+        <SelectedItem2>Sylvie (UC)</SelectedItem2>
+        <SelectedItem3>Iroha II</SelectedItem3>
+        <SelectedItem4>Shantotto II</SelectedItem4>
+        <SelectedIndexcount>5</SelectedIndexcount>
+      </Control>
+    </Control>
+    <Control Type="System.Windows.Forms.TabPage" Name="hudpage">
+      <Control Type="System.Windows.Forms.TextBox" Name="hudtext">
+        <Text>Scripted:{0}
+Targeting Mode: {1}
+HP: {7}/{8}
+MP: {10}/{11}
+TP: {13}
+Current Target: {25}
+Target HP: {27}%
+Current Game Time: {31}:{32}
+Running: {30}
+Indi- info: {35}
+
+</Text>
+      </Control>
+      <Control Type="System.Windows.Forms.NumericUpDown" Name="hudY">
+        <Value>0</Value>
+        <Enabled>True</Enabled>
+      </Control>
+      <Control Type="System.Windows.Forms.NumericUpDown" Name="hudX">
+        <Value>0</Value>
+        <Enabled>True</Enabled>
+      </Control>
+      <Control Type="System.Windows.Forms.CheckBox" Name="showHUD">
+        <Checked>False</Checked>
+        <Enabled>True</Enabled>
+        <CheckState>Unchecked</CheckState>
+      </Control>
+    </Control>
+  </Control>
+  <Control Type="Extra" Name="Extra">
+    <idleX>NaN</idleX>
+    <idleY>NaN</idleY>
+    <idleZ>NaN</idleZ>
+  </Control>
+</ChildForm>
